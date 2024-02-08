@@ -1,0 +1,105 @@
+absolute URL (a full web address) in the href attribute.    (<a href="html_images.asp">)
+A local link (a link to a page within the same website) is specified with a relative URL (without the "https://www" part): (<a href="/css/default.asp"> )
+
+
+<img src="" alt="" usemap="#workmap" width="" height=""> ---image can be used as a link also
+If you have your images in a sub-folder, you must include the folder name in the src attribute: src="/images/html5.gif"
+<map name="workmap">
+<area shape="rect/circle" coords="34,44,270,350" alt="Computer" href="computer.htm">------coords r coordinates
+
+<b> - bold
+<style> ---add style anywhere to add bit css , style="property:value;"
+<em> - emphasaised sort of italic
+<br> line break
+<i>-italic
+<hr> line
+<del>-- crossed text
+<ins> --underlined text
+<b> bold
+<small> - small text
+<sub>--subscripted text
+<sup>--superscripted text
+<mark> --- using a highliter on textssss 
+The HTML <cite> </cite> tag defines the title of a creative work 
+<p> u can also add title to paragraphs
+&nbsp ---- space
+<strong> -- bold
+<abbr title="" > </
+<address>----address
+<blockquote cite="">-----could be nice for seo maybe 
+<base>---to set base link of all href  to use href="tags/tag_base.asp"
+<bdi>----to separate username from rest of text
+<!--    -->  ------comment
+<ol>------order list
+<li>-list items
+<ul>-unordered list
+<dl>-----discription lists
+<dt>-------discription item
+<dd>-----discription data
+	COLOR
+rgb(red, green, blue)
+#rrggbb
+<a href> -- anchor 
+<section id =""> </ ----to create sections
+<a href ="#id">------internal navigation------ put id="#id" on any element 
+<nav> ---- for navigation
+<a href="#"> ---- back to top link----------- put id="#" on any element 
+<a href="anagrath1@gmail.com" for mail and href="tel:+91 9691568951" to call
+color types of linkes ----------link , active link , visited link
+target="_blank"-open in new tab
+href="/" ---------back to index page
+<link rel="icon" href="" type="image/x-icon">-------to put icon in tab
+<link rel="stylesheet" href="" type="text/css">------to connect css
+<img src="" alt="not available" title="" width="" height="">
+loading="lazy" --- good if many images , high performance
+<figure><figcaption><//-------image caption
+<header></header> &&& <footer></footer>
+<main></main>
+<article></article> ----- could be for blogs and stuff
+  <aside>
+    <detail><summary>guess how i live</summary> -------all semantics
+        <p>happily</p></detail>
+  </aside>
+<time datetime=""></time>
+<span> &&& <div>
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<table></table>
+<tr>------table row
+<td> ---- data entry in row 
+<th>------heading of row and column
+colspan and rowspan in <td> to take up sixe of n olumns and rows.
+<captions></captions>
+<thead></thead><tbody><tfoot>
+
+<form action="" method="get">
+<label for="name">Name</label>
+<input type="text" name="name" id="name" placeholder="name likho yaar" autocomplete="on" autofocus>
+</form>
+if type="password"-------- it hases the text entered
+required attribute to require the user to fill the field before submitting form
+type="tel" ---- for phone  , pattern="[0-9]{3}[0-9]{3}[0-9]{3}[0-9]{4}"
+--type="number" min="" max="" step="" value=""----
+<select name="coffie" id="coffie">
+<option value="regular coffie">regularcoffie</option>
+</select>
+----selected attribute in option to show that option in default-----
+Shift+alt+A --- comments out in visual studio code
+<fieldset></ ---------- is a semantics in form
+<legend></ ------- caption in form 
+type="radio" ---- radio button , type="checkbox"
+<textarea name="" id="" cols="" rows=""></-----
+
+<button type="submit"></button>
+<button type="reset"></button>
+<BUTTON TYPE="submit" formmethod="post">post</button>
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+
+NEVER SENT SENSITIVE INFO FROM GET METHOD------------
+-------TAIL BLOCKS IS GOOD TOOL FOR WEB DEVELOPMENT--------
+-------Til wind also---------

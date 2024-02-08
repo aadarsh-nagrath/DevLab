@@ -1,0 +1,17 @@
+JAVASCRIPT
+
+<script></>
+or <script src="index.js" > </>
+document.getElementById(" id" ).innerText= text --------- could change text 
+let c = 0 ----- declaration of variable
+console.log(c) ------- is used for debugging , will give value stored in c
+//////////////////The console. log() is a function in JavaScript which is used to print any kind of variables defined before in it or to just print any message that needs to be displayed to the user./////////
+
+let a= 4 let b= 5 let c= a+b so console.log(c) --- will give 9
+clt+ k+ c ----- to comment out multiple lines
+function name() {
+}                                                    Variables - -global scope and defined scope
+
+onclick="function" ------------- in html
+also var.innerText = text ------------------ to change data through id
+functionname() ----------------- to run a function
