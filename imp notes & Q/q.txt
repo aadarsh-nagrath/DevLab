@@ -1,0 +1,291 @@
+https://www.youtube.com/watch?v=By1EJ-e6XHk
+https://www.youtube.com/watch?v=AhyrK_jJ3vg
+https://www.youtube.com/watch?v=yWkLSsH9wQ0
+https://www.youtube.com/watch?v=1MskmzMFw7I
+https://www.youtube.com/watch?v=7GIgUSZkLfA
+https://www.youtube.com/watch?v=GR8TlBdeiXY LFX AND GSOCC
+https://www.youtube.com/watch?v=4ve-Lf7gTY0
+https://www.youtube.com/watch?v=yqgOgrbgm0M
+https://www.youtube.com/watch?v=1izYVJ_8P9M
+https://www.youtube.com/watch?v=fgkFnFXp3eU
+https://www.youtube.com/watch?v=jzzuOkEwr-Q&t=227s
+
+
+
+
+
+1.     What is Flux?
+2.     What is Redux?
+3.     What are the core principles of Redux?
+4.     What are the downsides of Redux compared to Flux?
+5.     What is the difference between mapStateToProps() and mapDispatchToProps()?
+6.     Can I dispatch an action in a reducer?
+7.     How to access the Redux store outside a component?
+8.     What are the drawbacks of the MVW pattern?
+9.     Are there any similarities between Redux and RxJS?
+10. How to reset state in Redux?
+11. What is the difference between React context and React Redux?
+12. Why are Redux state functions called reducers?
+13. How to make an AJAX request in Redux?
+14. Should I keep all a component's state in the Redux store?
+15. What is the proper way to access the Redux store?
+16. What is the difference between a component and a container in React Redux?
+17. What is the purpose of the constants in Redux?
+18. What are the different ways to write mapDispatchToProps()?
+19. What is the use of the ownProps parameter in mapStateToProps() and mapDispatchToProps()?
+20. How to structure Redux top-level directories?
+21. What is redux-saga?
+22. What is the mental model of redux-saga?
+23. What are the differences between call and put in redux-saga?
+24. What is Redux Thunk?
+25.  What are the differences between redux-saga and redux-thunk?
+
+
+
+1. What is the primary function of Node.js?
+2. What does the bcrypt hash function do in Node.js?
+3. What is the purpose of Object.freeze() in JavaScript?
+4. What is the purpose of Symbol in JavaScript?
+5. What is the output of typeof null in JavaScript?
+6. What does the npm install command do?
+7. What is a callback function in JavaScript?
+8. What does NaN === NaN evaluate to in JavaScript?
+9. What is the purpose of the WeakMap in JavaScript?
+10. What does Express.js provide for Node.js applications?
+11. What is the purpose of middleware in Express.js?
+12. How do you protect routes in Express.js?
+13. Which Node.js module is used to handle authentication with JWT?
+14. What is a JSON Web Token?
+15. What does the payload of a JWT contain?
+16. Which strategies can you use to combine documents in MongoDB?
+17. What does the unwind stage do in MongoDB Aggregation?
+18. What is the purpose of the $merge and $out stages in MongoDB Aggregation?
+19. What is the primary advantage of using the WiredTiger storage engine in MongoDB?
+20. What does the $size operator do in MongoDB, and how is it used?
+21. What is the purpose of the $facet stage in the MongoDB aggregation framework?
+22. What does the bucket stage do in MongoDB Aggregation?
+23. What is the difference between the $in and $nin operators in MongoDB?
+24. Which operator is used to match values in an array in MongoDB?
+25. Which clause is used to filter records in SQL?
+26. What does the .gitignore file do?
+27. Which Git command is used to change the commit message of the most recent commit?
+28. What is the primary purpose of Git?
+29. What is the primary function of AWS Elastic Beanstalk?
+30. What are the key benefits of using Elastic Beanstalk for application deployment?
+31. What is the purpose of S3 versioning in Amazon S3 buckets?
+32. What is the purpose of lifecycle policies in Amazon S3?
+33. How does S3 Intelligent-Tiering help optimize storage costs?
+34. What are the differences between S3 Standard, S3 Glacier, and S3 Glacier Deep Archive?
+35. What is AWS Key Management Service , and how is it used?
+
+
+1. Write a program to reverse a string without using the reverse() method.
+2. What is a generator function in JavaScript? How does it work?
+3. Explain closures in JavaScript.
+4. What are higher-order components in React?
+5. Explain the difference between state and props in React.
+6. What is a Callback function?
+7. Explain the spread operator in JavaScript.
+8. What is the difference between a shallow copy and a deep copy? How do you create each type in JavaScript?
+9. What is the Virtual DOM in React, and how does it help?
+10. What are hooks in React? Name some commonly used hooks.
+11. Explain useMemo and React.memo, and describe the differences between them.
+12. What are the use cases for useCallback and useMemo? Provide examples.
+13. Implement a timer functionality that has start and stop buttons.
+14. Write code to handle lifecycle events in functional components using hooks.
+15. How would you pass data from a child component to a parent component in React?
+16. Why do we need to create a copy of the state when updating it in React?
+17. Why is a state management library, like Redux, often used in React applications?
+18. What are middlewares in Redux, and why are they important?
+19. Difference between controlled component and Uncontrolled component.
+20. How do reducers work in Redux, and how would you create one?
+21. How can you prevent a component from re-rendering in React?
+22. What is the Context API in React? How does it work?
+23. How would you share data across multiple components in React?
+24. What are some optimization techniques for React applications?
+25. How does lazy loading work in React? Implement an example of it.
+26. How would you prevent unnecessary re-renders of a component?
+27. Write basic unit test cases for a component.
+28. How would you check if an object is empty in JavaScript?
+29. Have you worked with Bootstrap in your projects? If so, describe your experience.
+Follow Alpna P. for more related content!
+
+HTML & CSS
+1. What is the difference between em and rem units in CSS?
+2. Explain the purpose of the meta viewport tag in responsive design.
+3. How would you implement a responsive navigation bar using CSS?
+4. What are pseudo-elements in CSS? Can you give examples?
+5. Explain the CSS Box Model and its components.
+6. What is the difference between inline, inline-block, and block elements in HTML?
+7. What are media queries, and how would you use them in a project?
+8. What is the difference between relative, absolute, fixed, and sticky positioning in CSS?
+
+JavaScript
+1. What is the difference between var, let, and const in JavaScript?
+2. Explain the concept of closures in JavaScript with an example.
+3. How does the this keyword work in JavaScript?
+4. What are higher-order functions, and can you provide an example?
+5. What is the difference between synchronous and asynchronous JavaScript?
+6. Explain the difference between forEach and map methods in arrays.
+7. What is the purpose of promises, and how do you use them?
+8. What are arrow functions, and how do they differ from regular functions?
+9. How does event delegation work in JavaScript?
+10. What are REST APIs?
+11. How do you ensure the security of an API?
+12. Explain the purpose of HTTP status codes in API responses.
+13. How would you optimize API performance?
+14. What is the difference between GET and POST methods in REST APIs?
+
+React.js
+1. What is the virtual DOM, and how does React use it?
+2. Explain the difference between functional components and class components in React.
+3. What is the purpose of useState and useEffect hooks?
+4. How does props differ from state in React?
+5. What are controlled and uncontrolled components in React?
+6. How do you handle forms in React?
+7. What is React context, and how does it help in state management?
+8. How would you optimize a React application for performance?
+9. What is the difference between useMemo and useCallback hooks?
+10. Explain React's lifecycle methods and their equivalents in hooks.
+
+Redux
+1. What are the three core principles of Redux?
+2. Explain the structure of a Redux application.
+3. What is the role of actions in Redux? Can you provide an example?
+4. What is a reducer, and how does it work in Redux?
+5. How is the Redux store created, and how do you access its state?
+6. What is the purpose of connect() in Redux?
+7. What is the difference between mapStateToProps and mapDispatchToProps?
+8. How do you handle asynchronous operations in Redux?
+9. What is middleware in Redux, and can you give examples of common middleware?
+10. How would you use Redux Toolkit in a React application?
+11. Explain the purpose of selectors in Redux.
+12. What is the difference between Redux and React Context API?
+13. Explain how you would optimize a Redux-based application to prevent unnecessary renders.
+
+
+🔗Window Functions
+
+1. Calculate the cumulative sales for each product category.
+2. Find the top three performers in each department based on their annual sales using dense rank.
+3. Compute the difference between the highest and lowest order value for each customer.
+4. Calculate the running total of salaries by department.
+5. Determine the average monthly sales for each region over the past twelve months.
+
+🔗Common Table Expressions (CTEs)
+
+1. Use a recursive CTE to calculate the factorial of numbers from one to ten.
+2. Write a CTE to split email addresses into username and domain parts.
+3. Identify gaps in a sequence of order IDs using a CTE.
+4. Use a CTE to calculate the total working hours of employees grouped by department.
+5. Detect overlapping date ranges for bookings using a CTE.
+
+🔗Joins (Inner, Outer, Cross, Self)
+
+1. Retrieve all employees along with their assigned projects, including employees without projects (Right Join).
+2. Find customers who placed exactly one order using a self-join.
+3. List all products along with the suppliers who didn’t supply them (Outer Join).
+4. Generate all possible pairs of employees and calculate the distance between their office locations using a Cross Join.
+5. Retrieve a list of employees who share the same job title using a self-join.
+
+🔗Subqueries
+
+1. List the products whose average sales exceed the overall average sales.
+2. Find employees who earn more than the manager of their department.
+3. Identify customers who have placed orders for more than five unique products.
+4. Retrieve the top three highest-selling products for each category using a correlated subquery. 
+5. List employees working in departments with fewer than three employees.
+
+🔗Aggregate Functions
+
+1. Calculate the mode (most frequently occurring value) of product prices in each category. 
+2. Find the total number of orders placed in each quarter and rank them by volume.
+3. Count the number of employees earning above the median salary.
+4. Identify the month with the highest average sales in each region.
+5. Compute the variance and standard deviation of sales for each product category.
+
+🔗Indexing and Performance
+
+1. Write a query to find the most frequently accessed rows in a table using indexed columns. 
+2. Analyze the impact of adding an index on a large text column. 
+3. Identify queries that perform full table scans and suggest indexing improvements. 
+4. Compare the performance of a single-column index versus a composite index on query execution time.
+5. Write a query to monitor index usage statistics for a database table
+
+
+
+Spring Boot Roadmap
+
+PHASE 1 - Basics
+
+• Creating a spring boot project using spring initializr
+• Maven and gradle build tools
+• Annotations
+• Profiles and environment-specific configurations
+• @getmapping, @postmapping, @putmapping, @deletemapping
+• Handling path variables and request parameters
+• Setting up database connection (h2, mysql, postgresql)
+• Using jparepository and crudrepository
+• Introduction to spring boot devtools
+• Enabling hot reloading
+• Spring batch, scheduling and cron expressions
+
+
+PHASE 2 - Intermediate
+
+• Using @controlleradvice and @exceptionhandler
+• Custom error responses and exception classes
+• Global exception handling
+• Basic authentication
+• Configuring security for apis
+• Implementing jwt (json web tokens) for stateless authentication
+• Introduction to hateoas
+• Versioning rest apis (uri, parameter, headers)
+• Unit testing with junit and mockito
+• Writing integration tests with spring boot test
+• Testing restful services with mockmvc
+• Exploring actuator endpoints
+• Creating custom health indicators
+
+
+PHASE 3 - Advanced
+
+• Using @profile annotation
+• Configuring environment-specific beans
+• Switching profiles for different environments
+• Setting up a spring cloud project
+• Key components of spring cloud
+• Setting up eureka server
+• Registering microservices with eureka
+• Service discovery in action
+• Introduction to api gateway
+• Setting up spring cloud gateway
+• Configuring routes and filters
+• Setting up spring cloud config server
+• Managing configuration in a centralized repository
+• Configuring spring boot applications to use config server
+
+
+PHASE 4 - Microservices
+
+• Introduction to inter-service communication
+• Using resttemplate for synchronous communication
+• Using feign client for simplified service calls
+• Setting up resilience4j
+• Configuring circuit breakers, retry in microservices
+• Introduction to distributed tracing
+
+This roadmap guide you through the essential skills and concepts.
+
+
+🎯 Preparing for a Back-End Developer Interview?
+Mastering backend technologies is crucial for building robust, scalable web applications. Whether you're an aspiring backend developer or looking to enhance your skills, having a strong grasp of backend concepts can give you a significant advantage in technical interviews.
+Here’s a quick rundown of important topics to help you prepare:
+𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗕𝗮𝘀𝗶𝗰𝘀 🔹 What is a server, and how does it interact with clients? 🔹 Understanding RESTful APIs and their importance. 🔹 HTTP Methods: GET, POST, PUT, DELETE, and PATCH. 🔹 Status Codes: What they mean and how to handle them.
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 🔸 SQL vs. NoSQL: Key differences and when to use each. 🔸 CRUD operations: How to implement Create, Read, Update, Delete. 🔸 Database normalization and indexing for performance optimization. 🔸 ORMs like Sequelize and Mongoose: Benefits and usage.
+𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗔𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 🔹 JWT vs. OAuth: Understanding tokens and security. 🔹 Implementing user authentication and authorization in your applications.
+𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗧𝗼𝗽𝗶𝗰𝘀 🔸 Microservices architecture: Benefits and challenges. 🔸 Caching strategies: Redis and in-memory caching. 🔸 Load balancing and scaling: How to handle increased traffic. 🔸 WebSockets: Real-time communication and implementation.
+𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 🔹 Identifying and fixing bottlenecks in backend services. 🔹 Best practices for writing efficient database queries. 🔹 Asynchronous programming with Node.js: Callbacks, Promises, and Async/Await.
+𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗗𝗲𝗯𝘂𝗴𝗴𝗶𝗻𝗴 🔸 Writing unit and integration tests using tools like Mocha and Chai. 🔸 Debugging techniques and tools for backend systems.
+𝗠𝗶𝘀𝗰𝗲𝗹𝗹𝗮𝗻𝗲𝗼𝘂𝘀 🔹 Deployment strategies: Continuous Integration and Continuous Deployment (CI/CD). 🔹 Key differences between REST and GraphQL. 🔹 Security best practices for backend development.
+💻 Pro Tip: Build real-world projects, contribute to open-source, and keep exploring these concepts hands-on!

@@ -1,0 +1,39 @@
+✨ General Concepts:
+1️⃣ What is JDK, and how does it differ from JVM and JRE?
+2️⃣ How does the JVM class loader work?
+3️⃣ What is the JIT Compiler?
+4️⃣ Why is the main method static, and can we change its name?
+5️⃣ What is String[] args, and what happens if we omit it?
+6️⃣ How do the javac and java commands enable command-line execution?
+7️⃣ Explain the WORA principle (Write Once, Run Anywhere).
+
+🔧 Exception Handling:
+1️⃣ Custom exceptions: how do throw and throws work?
+2️⃣ Why can’t we instantiate an abstract class?
+
+🛠 Object-Oriented Programming:
+1️⃣ Access modifiers and inheritance order.
+2️⃣ Conditions for dynamic polymorphism.
+3️⃣ Polymorphic objects and methods in the Object class.
+4️⃣ Advantages of OOP over procedural programming.
+
+🔗 Threading & Synchronization:
+1️⃣ Why is synchronization needed, and what are its types?
+2️⃣ Differences between Runnable and Thread.
+3️⃣ Advantages of implementing Runnable over extending Thread.
+
+💡 Collections & Hashing:
+1️⃣ How are hash collisions handled?
+2️⃣ Key differences: Hashtable, HashMap, and HashSet.
+3️⃣ Why prefer ConcurrentHashMap over HashMap?
+
+🌟 Advanced Java Concepts:
+1️⃣ The contract between .hashCode() and .equals().
+2️⃣ Shallow vs. deep copy with the Cloneable interface.
+3️⃣ Constructor chaining using this and super.
+4️⃣ Lambda expressions, anonymous inner classes, and static blocks.
+5️⃣ Latest features like Collectors and Optional classes.
+6️⃣ Default and static methods in functional interfaces.
+
+🔧 Dependency Injection:
+1️⃣ Constructor injection vs. setter injection.

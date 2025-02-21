@@ -1,0 +1,46 @@
+OpenSource - GSOC & More [SelectOrganisations]
+Projects - TalkingPDF, CMD errorstuff, More
+FullStack Dev - Frontend & Backend {Complete Backend Series - Finish It}
+DevOps ----------------------------------------------------------------
+Docker, Kubernetes, Grafana, Prometheus, Terraform, Ansible, CI/CD Pipeline, Orchasterization
+Kubernetes Finish It
+------------------------------------------------------------------------------------
+AI-ML ------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Av0oMG49FQE&t=27s
+https://www.youtube.com/watch?v=RebzueX3Ih8
+Cources - IBM FullStack dev (12 Modules) -------------------------------------------
+3 Modules
+------------------------------------------------------------------------------------
+DSA - dp, recursion, all concepts.
+------------------------------------------------------------------------------------
+System Design -----------------------------------------------------------------------
+https://www.youtube.com/watch?v=CC2euo2Ez3Y
+https://www.geeksforgeeks.org/system-design-tutorial/
+https://www.youtube.com/watch?v=FSR1s2b-l_I&list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
+https://www.youtube.com/watch?v=43-X22tdxiI&list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM
+https://www.youtube.com/watch?v=m8Icp_Cid5o
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
+-------------------------------------------------------------------------------------
+Agile Methodologies
+Application Testing & unit testing (Jest and Cypress),etc
+
+TeckStack & Skills -
+Java - #Spring, Python, js, ts, go, React, Next, Node,
+ORMs and Backend Systems
+Learn RUST(https://doc.rust-lang.org/book/foreword.html | https://prince.dev/rust-book) 
+GraphQL(https://www.youtube.com/watch?v=5199E50O7SI | https://www.youtube.com/watch?v=eIQh02xuVw4 | https://www.youtube.com/watch?v=xMCnDesBggM&list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y | https://www.youtube.com/watch?v=WtkKwO1viI8 )
+
+Popular Libraries - Redis, Redux, Apollo, Express, Tailwind
+
+DB - mongoDB, SQL DB, Convex,PostgreSQL.
+ORMs - Prisma, Drizzle.
+Extra - Vercel, NGINX, RAG, LLM{
+https://www.youtube.com/watch?v=UU1WVnMk4E8
+https://www.youtube.com/watch?v=HSZ_uaif57o
+https://www.youtube.com/watch?v=xZDB1naRUlk
+}
+
+*Cloud - AWS, Azure.
+
+
+Undone Shit - REACT DASHBOARD, TALKING PDF, CollabCANVAS, SaleSurge
